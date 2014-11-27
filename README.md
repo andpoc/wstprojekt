@@ -1,5 +1,6 @@
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/andpoc/wstprojekt.git
-git push -u origin master
+"Hello world"
+
+one
+two
+three
+
